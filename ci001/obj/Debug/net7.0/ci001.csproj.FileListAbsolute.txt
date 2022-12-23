@@ -1,0 +1,15 @@
+/Users/darinaisaeva/Cisharp/ci001/bin/Debug/net7.0/ci001
+/Users/darinaisaeva/Cisharp/ci001/bin/Debug/net7.0/ci001.deps.json
+/Users/darinaisaeva/Cisharp/ci001/bin/Debug/net7.0/ci001.runtimeconfig.json
+/Users/darinaisaeva/Cisharp/ci001/bin/Debug/net7.0/ci001.dll
+/Users/darinaisaeva/Cisharp/ci001/bin/Debug/net7.0/ci001.pdb
+/Users/darinaisaeva/Cisharp/ci001/obj/Debug/net7.0/ci001.csproj.AssemblyReference.cache
+/Users/darinaisaeva/Cisharp/ci001/obj/Debug/net7.0/ci001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darinaisaeva/Cisharp/ci001/obj/Debug/net7.0/ci001.AssemblyInfoInputs.cache
+/Users/darinaisaeva/Cisharp/ci001/obj/Debug/net7.0/ci001.AssemblyInfo.cs
+/Users/darinaisaeva/Cisharp/ci001/obj/Debug/net7.0/ci001.csproj.CoreCompileInputs.cache
+/Users/darinaisaeva/Cisharp/ci001/obj/Debug/net7.0/ci001.dll
+/Users/darinaisaeva/Cisharp/ci001/obj/Debug/net7.0/refint/ci001.dll
+/Users/darinaisaeva/Cisharp/ci001/obj/Debug/net7.0/ci001.pdb
+/Users/darinaisaeva/Cisharp/ci001/obj/Debug/net7.0/ci001.genruntimeconfig.cache
+/Users/darinaisaeva/Cisharp/ci001/obj/Debug/net7.0/ref/ci001.dll
